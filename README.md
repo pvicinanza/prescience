@@ -8,7 +8,11 @@ Paul Vicinanza, Amir Goldberg, Sameer B Srivastava, A deep-learning model of pre
 
 We propose a simple measure to identify prescient ideas in natural language using finetuned transformer models (e.g., BERT). By finetuning separate model on a temporally split corpus, we learn time-specific discourse. We identify prescient politicians, judges, and firms as individuals and groups who use language that is poorly predicted by a model trained on contemporaenous text but well-predicted on a model trained on future text. The following figure is an illustration of our model:
 
-![alt text](./figures/bert_figure.PNG)
+![BERT figure](./figures/bert_figure.PNG | width=500)
+
+The principle advantage of this model is that it enables researchers to study variation in a given word within a specific time period. For example, here are the most and least prescient uses of the word **race** by politicans in the 1961 to 1963 United States Congress.
+
+![race](./figures/bert_figure.PNG | width=200)
 
 # Implementation
 
