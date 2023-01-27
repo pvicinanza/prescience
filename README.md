@@ -1,4 +1,4 @@
-# prescience
+# Prescience
 Code and Tutorial to Quantify Prescient Ideas in Natural Language
 
 #### Citation
