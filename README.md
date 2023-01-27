@@ -1,7 +1,6 @@
 # Prescience
-Code and Tutorial to Quantify Prescient Ideas in Natural Language
+This respository provides the and an introductory tutorial to quantify prescient ideas in natural language as published in:
 
-#### Citation
 Paul Vicinanza, Amir Goldberg, Sameer B Srivastava, A deep-learning model of prescient ideas demonstrates that they emerge from the periphery, *PNAS Nexus*, Volume 2, Issue 1, March 2023, pgac275, https://doi-org.stanford.idm.oclc.org/10.1093/pnasnexus/pgac275
 
 # Overview 
