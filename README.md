@@ -12,7 +12,7 @@ We propose a simple measure to identify prescient ideas in natural language usin
 <img src="./figures/bert_figure.PNG" width="800">
  </p>
 
-The principle advantage of this model is that it enables researchers to study variation in a given word within a specific time period. For example, here are the most and least prescient uses of the word **race** by politicans in the 1961 to 1963 United States Congress.
+The principle advantage of this model is that it enables researchers to study variation in a given word within a specific time period and between actors. For example, here are the most and least prescient uses of the word **race** by politicans in the 1961 to 1963 United States Congress.
 
 <p align="center">
   <img src="./figures/race_table.PNG" width="400">
