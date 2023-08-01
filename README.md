@@ -20,7 +20,7 @@ The principle advantage of this model is that it enables researchers to study va
 
 # Implementation
 
-We provide a easy to follow [tutorial in jupyter notebook](./src/prescience_notebook_example.ipynb) demonstrating how to compute prescience on your own corpora. 
+We provide a easy to follow [tutorial in jupyter notebook](./src/prescience_notebook_with_example.ipynb) demonstrating how to compute prescience on your own corpora. 
 
 1. Finetune custom BERT models over a temporally split corpus
 2. Compute prescience using the finetuned BERT models
